@@ -5,3 +5,4 @@ function addTask() {
   document.getElementById("taskList").appendChild(li);
   input.value = "";
 }
+console.log("Feature A : Delete Task functinality");
