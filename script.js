@@ -6,3 +6,4 @@ function addTask() {
   input.value = "";
 }
 console.log("Feature A : Delete Task functinality");
+console.log("Feature UI Improvement");
