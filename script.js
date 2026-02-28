@@ -5,4 +5,9 @@ function addTask() {
   document.getElementById("taskList").appendChild(li);
   input.value = "";
 }
+<<<<<<< HEAD
 console.log("Working on delete task");
+=======
+console.log("Feature A : Delete Task functinality");
+console.log("Feature UI Improvement");
+>>>>>>> feature/ui-improvement
